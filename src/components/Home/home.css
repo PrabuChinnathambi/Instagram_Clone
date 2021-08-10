@@ -1,0 +1,27 @@
+.posts_forms{
+    display: flex;
+    background-color: white;
+}
+
+.posts_card{
+    margin-left: 70px;
+    margin-top: 30px;
+    width: 650px;
+    margin-right: 20px;
+    border-radius: 3px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+.forms_card{
+    
+    margin-top: 40px;
+    width: 300px;
+    padding: 40px;
+    padding-top: 30px;
+    border: 1px solid rgb(230, 225, 225);
+    background-color: white;
+    display: inline-block;
+    height: 50%;
+
+}

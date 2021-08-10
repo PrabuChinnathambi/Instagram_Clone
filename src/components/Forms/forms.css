@@ -1,0 +1,13 @@
+.input_part{
+  margin-top: 20px;
+}
+
+
+.input-1{
+  width: 100%;
+  margin-bottom: 6px;
+  padding: 13px 20px;
+  border: 1px solid #a8a8a8;
+  box-sizing: border-box;
+  border-radius: 10px;
+}

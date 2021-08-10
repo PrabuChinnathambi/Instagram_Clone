@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header_container{
+    display: flex;
+    padding-left: 100px;
+    background-color:white;
+    align-items: center;
+    padding-top: 5px;
+    border-bottom: solid 0.5px rgb(189, 187, 187);
+}
+.header_icons{
+    display: flex;
+    margin-left: 280px;
+}
+.header_container .header_img img{
+    width: 60%;
+}
+
+.header_icons img{
+    width: 30px;
+    padding: 10px;
+    height: 30px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+.search_box input{
+    margin-left: 250px;
+    padding: 3px;
+    font-weight: 100;
+    text-align: center;
+}
+
+.header_icons .profile_pic img {
+    padding: 2px;
+    border: 1px solid rgb(185, 181, 181);
+    border-radius: 50%;
+    display: inline-block;
+    height: 25px;
+    width: 25px;
+}
+.header_icons .profile_pic{
+    margin-top: 10px;
+    
+}
